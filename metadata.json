@@ -1,0 +1,6 @@
+{
+  "name": "SkyVector: 3D Drone Racing & Flight Simulator",
+  "description": "High-speed 3D drone flight simulator with Explore and AI Bot Race modes, 6-DOF physics, FPV camera, and neon race tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
